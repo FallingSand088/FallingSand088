@@ -12,8 +12,9 @@ I am a **Year 1 Graphics and Multimedia Software** student at **Universiti Tekno
 - 🛡️ **Interest:** Web & App Development, Game Development.
 - ⚡ **Fun Fact:** I have a 8-day streak on Leetcode (still trying for a higher streak 🥲)  
 
-### 📚 Current Coursework
+### 📚 Current Course Subjects
 | Subject | Focus |
+| :--- | :--- |
 | **Programming Technique 1** | Coding Fundamentals & Logic |
 | **Discrete Structure** | Mathematical Foundations |
 | **Digital Logic** | Hardware & Circuitry |
@@ -22,7 +23,7 @@ I am a **Year 1 Graphics and Multimedia Software** student at **Universiti Tekno
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,mysql,github,vscode" />
 </p>
 
 ### 📫 Connect with me:
