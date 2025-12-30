@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Dhivyesh! 👋 
 
-<!--
-**FallingSand088/FallingSand088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=FallingSand088&label=Profile%20views&color=0e75b6&style=flat" alt="dhivyesh" />
+</p>
 
-Here are some ideas to get you started:
+### 🎓 About Me
+I am a **Year 1 Graphics and Multimedia Software** student at **Universiti Teknologi Malaysia (UTM)**. I am passionate about creating software and enjoy the process of learning how to create solutions for daily life problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Building a strong foundation in Computing and Multimedia.
+- 👯 **Collaboration:** I'm eager to contribute to projects that impact Malaysian society and university students.
+- 🛡️ **Interest:** Web & App Development, Game Development.
+- ⚡ **Fun Fact:** I have a 8-day streak on Leetcode (still trying for a higher streak 🥲)  
+
+### 📚 Current Coursework
+| Subject | Focus |
+| **Programming Technique 1** | Coding Fundamentals & Logic |
+| **Discrete Structure** | Mathematical Foundations |
+| **Digital Logic** | Hardware & Circuitry |
+| **Technology & Information Systems** | Industry Standards |
+| **Integrity & Anti-Corruption** | Ethics in Professional Setting |
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,github,vscode" />
+</p>
+
+### 📫 Connect with me:
+[![Email](https://img.shields.io/badge/Email-dhivyeshkumarsivakumar%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:dhivyeshkumarsivakumar@gmail.com)
+
