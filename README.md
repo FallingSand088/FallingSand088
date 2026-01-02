@@ -37,10 +37,12 @@ I am a **Year 1 Graphics and Multimedia Software** student at **Universiti Tekno
 
 ### 💻 Leetcode Stats
 <p align="left">
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/fallingsand088/">
     <img src="https://leetcard.jacoblin.cool/fallingsand088?theme=dark&font=Recursive" alt="LeetCode Stats" />
   </a>
 </p>
+
+---
 
 ### 📫 Connect with me:
 [![Email](https://img.shields.io/badge/Email-dhivyeshkumarsivakumar%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:dhivyeshkumarsivakumar@gmail.com)
